@@ -1,0 +1,12 @@
+# ⚠️ DATOS DE EJEMPLO — reemplazar con la información real de AndesOrto
+nombre: AndesOrto
+descripcion: >
+  Laboratorio de ortodoncia y ortopedia maxilar del grupo Mundo Oral. Fabricamos
+  aparatología a medida para odontólogos, odontopediatras y ortodoncistas.
+clientes: Odontólogos, odontopediatras y ortodoncistas (no atendemos pacientes directamente)
+horario: Lunes a viernes 9:00–18:00, sábados 9:00–13:00
+direccion: "[COMPLETAR] Av. Ejemplo 123, Lima"
+cobertura_envios: Lima Metropolitana con recojo y entrega; provincias vía agencia (costo a cargo del cliente)
+medios_de_pago: Transferencia BCP/Interbank, Yape, Plin
+como_enviar_un_caso: Enviar modelos (físicos o escaneo digital STL) + orden de trabajo con indicaciones del doctor
+contacto_humano: Un asesor del laboratorio responde en horario de atención

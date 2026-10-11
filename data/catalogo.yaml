@@ -1,0 +1,15 @@
+# Fuente: CATALOGO.pdf (2026-10-10)
+# Campos: nombre, categoria, indicacion, descripcion, precio, plazo, notas (todos opcionales salvo nombre)
+# Moneda asumida: soles (S/). Plazo de entrega no indicado en el PDF → el bot deriva si lo preguntan.
+productos:
+  - nombre: A
+    descripcion: A D
+    precio: S/ 10
+
+  - nombre: B
+    descripcion: B D
+    precio: S/ 20
+
+  - nombre: C
+    descripcion: C D
+    precio: S/ 30

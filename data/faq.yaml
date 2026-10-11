@@ -1,0 +1,12 @@
+# ⚠️ DATOS DE EJEMPLO — reemplazar con las preguntas frecuentes reales
+faq:
+  - pregunta: ¿Cómo les envío un caso?
+    respuesta: Nos envía los modelos (físicos o escaneo STL) junto con la orden de trabajo firmada por el doctor. En Lima coordinamos el recojo.
+  - pregunta: ¿Trabajan con escaneo digital?
+    respuesta: Sí, recibimos archivos STL de cualquier escáner intraoral.
+  - pregunta: ¿Hacen envíos a provincia?
+    respuesta: Sí, enviamos por agencia. El costo del envío es a cargo del cliente.
+  - pregunta: ¿Cuáles son los medios de pago?
+    respuesta: Transferencia BCP o Interbank, Yape y Plin.
+  - pregunta: ¿Atienden pacientes?
+    respuesta: No, somos un laboratorio y trabajamos directamente con odontólogos. Si es paciente, le recomendamos consultar con su odontólogo.

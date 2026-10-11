@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27
+anthropic>=0.60
+pydantic-settings>=2.4
+pyyaml>=6.0
+pytest>=8.0
+python-multipart>=0.0.9
